@@ -1,4 +1,4 @@
-# blackbox-testing
+# Blackbox-testing
 
 Kiểm thử hộp trắng theo quy trình các bước sau đây:
 
