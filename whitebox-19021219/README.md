@@ -17,6 +17,7 @@
 ### Flow control graph
 
 ![img.png](img/img.png)
+
 **Case 1**: Start -> 1T -> 2 -> Exit
 
 ![img_1.png](img/img_1.png)
