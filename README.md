@@ -25,7 +25,7 @@ Kiểm thử hộp trắng theo quy trình các bước sau đây:
   }
 
 - Đồ thị:
-  ![img.png](img.png)
+ ![image](https://user-images.githubusercontent.com/62583233/168467845-cfd909d3-583c-46f1-a323-ee380e6489d5.png)
 
 - Tìm đường đi và lập phương trình:
 1. 1T -> 2T -> 3
